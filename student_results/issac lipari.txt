@@ -1,0 +1,24 @@
+NAME: ISSAC LIPARI
+
+GENDER: MALE
+
+YEAR: 2022
+
+========  =======  =============
+COURSE    GRADE      CREDIT UNIT
+========  =======  =============
+MAT112    F                    3
+CPE123    E                    3
+GST104    F                    3
+MAT221    C                    3
+CPI109    B                    3
+CPT342    E                    3
+EET124    A                    3
+AET214    D                    3
+========  =======  =============
+
+TOTAL CREDIT LOAD: 	24
+
+GPA: 2.0
+
+REMARK: POOR

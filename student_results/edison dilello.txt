@@ -1,0 +1,24 @@
+NAME: EDISON DILELLO
+
+GENDER: MALE
+
+YEAR: 2022
+
+========  =======  =============
+COURSE    GRADE      CREDIT UNIT
+========  =======  =============
+MAT112    C                    3
+CPE123    F                    3
+GST104    B                    3
+MAT221    A                    3
+CPI109    D                    3
+CPT342    B                    3
+EET124    B                    3
+AET214    E                    3
+========  =======  =============
+
+TOTAL CREDIT LOAD: 	24
+
+GPA: 2.875
+
+REMARK: FAIR
